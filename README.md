@@ -5,6 +5,6 @@ Bu repo [Kodluyoruz](https://kodluyoruz.org/) Front-end eğitimde oluşturduğum
 
 Github [Tıkla!](https://github.com/denizersan)
 
-Twitter [Tıkla!](https://www.twitter.com/in/dnzdev/)
+Twitter [Tıkla!](https://www.twitter.com/dnzdev)
 
 Patika.dev [Tıkla!](https://app.patika.dev/denizersan)
