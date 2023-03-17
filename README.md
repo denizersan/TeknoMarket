@@ -1,5 +1,5 @@
 # TeknoMarket™
-Bu repo [Kodluyoruz](https://kodluyoruz.org/) Front-end eğitimde oluşturduğumuz css ödev1 Sayfamıza Biraz düzenleme Yapalım adı altında TeknoMarket web sayfası oluşturulup css de öğrenilen şeyleri uygulama yapılmıştır. ve altıncı repodur. İçerisinde bir adet README dosyası, bir adet de index.html, bir adet Images dosyası, bir adet de about.html dosyası, bir adet de products.html dosyası barındırıyor.
+Bu repo [Kodluyoruz](https://kodluyoruz.org/) Front-end eğitimde oluşturduğumuz css sayfamıza Biraz düzenleme Yapalım adı altında TeknoMarket web sayfası oluşturulup css de öğrenilen şeyleri uygulama yapılmıştır. İçerisinde bir adet README dosyası, bir adet de index.html, bir adet Images dosyası, bir adet de about.html dosyası, bir adet de products.html dosyası barındırıyor.
 
 ## Sosyal Medya Hesaplarım
 
